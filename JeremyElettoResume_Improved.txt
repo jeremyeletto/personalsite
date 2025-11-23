@@ -1,0 +1,85 @@
+JEREMY ELETTO
+Product Manager | Financial Technology | Trading Platforms
+(516) 468-9152 | elettotj@gmail.com | linkedin.com/in/jeremyeletto
+New York, New York
+
+
+SUMMARY
+Accomplished Product Manager specializing in trading platform innovation and quantitative-driven product strategy. Co-leading the launch and evolution of IBKR Desktop, Interactive Brokers' next-generation trading platform, scaling from zero to 6-figure weekly revenue. Expert at architecting telemetry for million-order pipelines, guiding UX experiments, and translating complex financial workflows into intuitive, performant experiences. Proven track record of managing cross-functional teams, establishing automated research pipelines, and shipping products that balance regulatory compliance with exceptional user experience.
+
+
+EXPERIENCE
+
+Product Manager — Trading Platforms
+Interactive Brokers Group                                      New York, New York
+October 2022 — Present
+
+• Co-lead strategic direction and roadmap for IBKR Desktop, the next-generation trading platform serving professional traders and institutional clients, driving platform from launch to 6-figure weekly revenue within first year
+
+• Orchestrated end-to-end development of critical platform features including comprehensive options trading suite, market screeners, advanced order entry/modification tools, and integrated news/research modules, directly impacting user adoption and revenue growth
+
+• Architected and implemented robust telemetry infrastructure capturing feature usage, order origination patterns, and application performance metrics across million-order pipelines, enabling data-driven product decisions and proactive stability monitoring
+
+• Manage and mentor team of 6–8 software engineers across multiple agile pods, unblocking delivery through crisp prioritization, technical guidance, and removal of cross-functional dependencies
+
+• Established automated UX research pipeline with client-facing feedback forum and internal dashboard for behavior-based user segmentation, enabling targeted feedback collection and iterative design improvements
+
+• Spearheaded QA automation program and release management discipline, creating automated test cases for new features and implementing rigorous quality gates that maintained product reliability throughout rapid iteration cycles
+
+• Introduced innovative financial advisory capabilities including Custom Indexing and Tax Loss Harvesting tools, expanding platform's value proposition for financial advisors and their client portfolios
+
+
+Institutional Services — Client Onboarding
+Interactive Brokers Group                                    Greenwich, Connecticut
+January 2021 — October 2022
+
+• Managed 25–35 institutional accounts concurrently, guiding hedge funds, introducing brokers, and financial advisory firms through platform launch and adoption within first 6 months of role
+
+• Delivered personalized virtual training sessions and bespoke onboarding experiences for top-tier institutional clients, demonstrating advanced trading tools, portfolio management software, CRM systems, and reporting capabilities
+
+• Served as primary liaison for enterprise-level hedge fund and introducing broker clients, handling complex trade execution issues, margin analysis, account management, and funding operations in real-time
+
+• Leveraged comprehensive knowledge of global exchange regulations and securities compliance to provide expert guidance on trade settlement, regulatory requirements, and cross-border trading constraints, ensuring client success and regulatory adherence
+
+
+Finance Intern
+Kreitzberg Wealth Management                                     Red Bank, New Jersey
+September 2018 — May 2019
+
+• Assisted Portfolio Manager in portfolio rebalancing and investment research, conducting analysis of ETF and mutual fund strategies to optimize client portfolio allocations
+
+• Produced tailored investment proposals for new prospects by analyzing existing portfolios, identifying optimization opportunities, and presenting data-driven recommendations aligned with client risk profiles and financial objectives
+
+
+EDUCATION
+
+Bachelor of Science in Business Administration, Finance
+Monmouth University                                            West Long Branch, New Jersey
+September 2016 — January 2020
+
+• GPA: 3.7/4.0 | Magna Cum Laude | International Business Honor Society
+
+
+KEY ACHIEVEMENTS
+
+• Launched IBKR Desktop from zero to 6-figure weekly revenue, co-leading 50% of platform feature initiatives and establishing product-market fit for next-generation trading platform
+
+• Built automated UX research and feedback pipeline, implementing client-facing feedback forum and internal research dashboard enabling behavior-based user segmentation and targeted feedback collection
+
+• Enhanced financial advisor toolset with Custom Indexing and Tax Loss Harvesting capabilities, expanding platform's value proposition and opening new revenue streams in the advisor market
+
+
+SKILLS
+
+Product & Project Management
+Product Strategy | Agile & Scrum Methodologies | Cross-functional Team Leadership | Release Management | Workload Prioritization | Product Launch | A/B Testing | Competitive Analysis
+
+User Experience & Research
+UX Research | User Experience Design | Customer Feedback Analysis | Data Analysis | Behavior Analytics | User Segmentation
+
+Technical & Tools
+Jira | Confluence | Tableau | Figma | Miro | IntelliJ IDEA | Microsoft Office Suite | Telemetry Architecture | Financial Data Integration
+
+Domain Expertise
+Financial Technology | Trading Platforms | Options Trading | Portfolio Management | Regulatory Compliance | Global Exchange Operations | Institutional Client Services
+

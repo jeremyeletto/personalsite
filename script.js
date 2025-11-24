@@ -347,7 +347,7 @@ const renderAnswer = (question, response) => {
   paneQuestion.textContent = question;
   const answerText =
     response?.answer ??
-    "Thanks for the question. I'll craft a tailored response shortly once the insights sync.";
+    "This page is under construction";
   
   // Hide overlay when showing answer
   if (floatingOverlay) {
